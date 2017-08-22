@@ -1,4 +1,8 @@
 hi... first program
+<<<<<<< HEAD
 open source technolgiesftsyrwtsywdy
 djyedued
 tuyuiooooooooooo
+=======
+open source technolgieshhhhhhhhhhhhhh
+>>>>>>> firstbranch
